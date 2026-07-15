@@ -6,14 +6,15 @@ class Solution {
             sumOdd += (2 * i - 1);
             sumEven += (2 * i);
         }
-        int gcd = 1;
-        for(int i = 1;i < Math.min(sumOdd,sumEven);i++)
+        int Ln = Math.max(sumOdd,sumEven);
+        int Sn = Math.min(sumOdd,sumEven);
+        int temp = 0;
+        while(Sn != 0)
         {
-            if(sumOdd % i == 0 && sumEven % i == 0)
-            {
-                gcd = i;
-            }
+            temp = Sn;
+            Sn = Ln % Sn;
+            Ln = temp;
         }
-        return gcd;
+        return Ln;
     }
 }
