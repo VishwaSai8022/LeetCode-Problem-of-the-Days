@@ -12,6 +12,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
 | [1089-duplicate-zeros](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1089-duplicate-zeros) |
+| [1260-shift-2d-grid](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -65,6 +66,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -110,4 +112,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
