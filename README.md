@@ -22,6 +22,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
